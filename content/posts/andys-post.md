@@ -1,7 +1,7 @@
 ---
-title: "Andys Post"
-date: 2018-11-26T15:13:52-04:00
-draft: true
+title: Andys Post
+date: 2018-11-26 19:13:52 +0000
+
 ---
 ## Wow, Andy's Post is here!
 
