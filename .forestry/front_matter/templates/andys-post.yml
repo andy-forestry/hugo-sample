@@ -8,14 +8,14 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: file
+  label: Image
+  name: image
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
-- type: file
-  label: Image
-  name: image
 - type: boolean
   name: a_useless_toggle
   label: A Useless Toggle
