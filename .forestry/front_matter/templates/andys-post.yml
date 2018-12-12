@@ -20,5 +20,6 @@ fields:
   name: a_useless_toggle
   label: A Useless Toggle
 pages:
+- content/posts/andys-post.md
 - content/posts/another-post-from-within-the-admin-interface.md
 - content/wow.md
