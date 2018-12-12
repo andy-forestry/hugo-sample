@@ -14,6 +14,9 @@ fields:
   hidden: false
   default: ''
 - type: file
+- type: boolean
+  name: a_useless_toggle
+  label: A Useless Toggle
 pages:
 - content/posts/another-post-from-within-the-admin-interface.md
 - content/wow.md
