@@ -15,4 +15,5 @@ fields:
   default: ''
 - type: file
 pages:
+- content/posts/another-post-from-within-the-admin-interface.md
 - content/wow.md
