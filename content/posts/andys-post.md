@@ -1,7 +1,7 @@
 ---
 title: Andys Post
 date: 2018-11-26 19:13:52 +0000
-image: ''
+image: "/uploads/e3z-retro.svg"
 a_useless_toggle: false
 
 ---
