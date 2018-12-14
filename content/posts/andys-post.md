@@ -13,4 +13,4 @@ Now there are changes.
 
 The end. !
 
-![](/v1544643886/samples/imagecon-group.jpg)![](/uploads/e3z-retro.svg)
+![](https://res.cloudinary.com/areddin/image/upload/v1544808477/Copy%20of%20IMG_20170702_112709460.jpg)
