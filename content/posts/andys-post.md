@@ -13,4 +13,4 @@ Now there are changes.
 
 The end. !
 
-![](/uploads/e3z-retro.svg)
+![](/v1544643886/samples/imagecon-group.jpg)![](/uploads/e3z-retro.svg)
