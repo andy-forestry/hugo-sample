@@ -13,4 +13,4 @@ Now there are changes.
 
 The end. !
 
-![](https://res.cloudinary.com/areddin/image/upload/v1544808477/Copy%20of%20IMG_20170702_112709460.jpg)
+![](https://res.cloudinary.com/areddin/image/upload/v1544808477/IMG_20170702_112709460.jpg)
