@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/sample-data.yml
   label: Sample Data File
-  match: "**/*"
 - type: directory
   path: content
   label: Pages
