@@ -25,5 +25,6 @@ fields:
   description: Seeing if I can trick Hugo
 pages:
 - content/posts/andys-post.md
+- content/data/sample-data.yml
 - content/posts/another-post-from-within-the-admin-interface.md
 - content/wow.md
