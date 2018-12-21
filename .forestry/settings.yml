@@ -5,7 +5,7 @@ admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: document
-  path: read-only
+  path: content/read-only
   label: Read Only Thing
   read_only: true
 - type: document
