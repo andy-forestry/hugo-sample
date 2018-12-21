@@ -4,13 +4,6 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
-- type: document
-  path: content/read-only
-  label: Read Only Thing
-  read_only: true
-- type: document
-  path: content/data/sample-data.yml
-  label: Sample Data File
 - type: directory
   path: content
   label: Pages
@@ -21,6 +14,13 @@ sections:
   label: Posts
   create: all
   match: "**/*"
+- type: document
+  path: content/data/sample-data.yml
+  label: Sample Data File
+- type: document
+  path: content/read-only
+  label: Read Only Thing
+  read_only: true
 upload_dir: ''
 public_path: https://res.cloudinary.com/areddin/image/upload
 front_matter_path: ''
