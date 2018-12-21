@@ -9,7 +9,7 @@ sections:
   label: Read Only Thing
   read_only: true
 - type: document
-  path: _data/sample-data.yml
+  path: content/data/sample-data.yml
   label: Sample Data File
 - type: directory
   path: content
